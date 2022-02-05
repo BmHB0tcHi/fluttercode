@@ -28,7 +28,7 @@ class _MyAppState extends State<MyApp> {
 
   @override
   Widget build(BuildContext context) {
-    var questions = ['are you gay?', 'Are u straight?', 'Are u homo?'];
+    var questions = ['are you John?', 'Are u bob?', 'Are u Tom?'];
     return MaterialApp(
         home: Scaffold(
             appBar: AppBar(
